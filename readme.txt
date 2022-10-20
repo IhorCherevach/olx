@@ -1,0 +1,1 @@
+add mail, login and password to olx/src/test/resources/conf.properties file.
